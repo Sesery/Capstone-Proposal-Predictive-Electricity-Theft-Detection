@@ -1,6 +1,6 @@
 # Capstone-Proposal-Predictive-Electricity-Theft-Detection
 
-![Electricity consumption distribution (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/global%20consumption.png)
+![Electricity consumption distribution (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/ElectricityTheftDetection.png)
 
 ## 📋 Project Overview
 
