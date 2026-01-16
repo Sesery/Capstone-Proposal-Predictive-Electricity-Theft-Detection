@@ -24,7 +24,7 @@ Detect electricity theft with high precision and recall, enabling utility compan
 * Processed: Aggregated to daily consumption per meter (540,940 records)in kilowatt-hours.
 
 
-***********image
+![Electricity consumption distribution (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/global%20consumption.png)
 
 ## 🏗️ System Architecture
 
