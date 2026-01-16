@@ -1,7 +1,6 @@
-# Capstone-Proposal-Predictive-Electricity-Theft-Detection
-
 ![Electricity consumption distribution (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/ElectricityTheftDetection.png)
 
+# Capstone-Proposal-Predictive-Electricity-Theft-Detection
 ## 📋 Project Overview
 
 This is an end-to-end machine learning system for detecting electricity theft using smart meter data. The project implements a supervised learning approach to identify fraudulent consumption patterns based on real-world theft behaviors. This is based on Institute of Electrical and Electronics Engineers (IEEE) research, the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
