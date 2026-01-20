@@ -17,7 +17,7 @@ The primary business objective of this project is to develop a machine learning-
 * Original Size: 370 columns × 140,256 time points (~4 years of data).
 * Processed: Aggregated to daily consumption per meter (540,940 records)in kilowatt-hours.
 
-![Global distribution of consumption (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/global%20consumption.png)
+![Global distribution of consumption (%)](https://github.com/Sesery/Capstone-Proposal-Predictive-Electricity-Theft-Detection/blob/main/Images/global%20consumption.png)
 
 ## 🏗️ System Architecture
 
@@ -110,6 +110,7 @@ Elizabeth Gichure
 Joan Omanyo
 
 GitHub: [Repository Link]
+
 
 
 
