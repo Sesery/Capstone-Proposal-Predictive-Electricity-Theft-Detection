@@ -109,7 +109,8 @@ Elizabeth Gichure
 
 Joan Omanyo
 
-GitHub: [Repository Link]
+Streamlit Dashboard: [https://electricity-theft-detection.streamlit.app/]
+
 
 
 
